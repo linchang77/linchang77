@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
  <h3 align="center">🧑🏻‍💻 Learning 🧑🏻‍💻</h3>
 </p>
-
+-->
 ## Hi there 👋,I'm linchang.
 
 - 🔭 I'm currently studying in Tongji University.
